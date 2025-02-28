@@ -70,3 +70,6 @@ City is back up, it's a must, we outside, ayy
 [Chorus]
 They not like us, they not like us, they not like us
 They not like us, they not like us, they not like us
+
+
+added text from git interfaace and pulled to my local repository
